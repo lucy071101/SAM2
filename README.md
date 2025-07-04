@@ -1,2 +1,2 @@
 # SAM2
-Repo for SAM2 code analyze
+Repo for SAM2 code study
